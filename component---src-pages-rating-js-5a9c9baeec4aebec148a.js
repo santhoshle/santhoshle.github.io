@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{190:function(e,a,t){"use strict";t.r(a);var n=t(0),i=t.n(n);a.default=function(e){return i.a.createElement("div",{className:"row"},i.a.createElement("div",{style:{width:"20%"}},e.skill),i.a.createElement("div",{style:{width:"60%",marginTop:"10px"}},i.a.createElement("div",{className:"barContainer"},i.a.createElement("div",{className:e.ratingClass}))))}}}]);
+//# sourceMappingURL=component---src-pages-rating-js-5a9c9baeec4aebec148a.js.map
